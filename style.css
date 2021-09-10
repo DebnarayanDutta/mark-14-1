@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+    background-color: rgb(29, 25, 2);
+    color: rgb(243, 110, 22);
+}
+#id {
+
+}
+     
+#Intial-price {
+    
+    vertical-align: middle;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+margin-top: 15px;
+padding-top: 3px;
+padding-bottom: 3px;
+margin-bottom: 20px;
+
+}
+#stocks-quantity {
+    vertical-align: middle;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding-top: 3px;
+padding-bottom: 3px;
+margin-bottom: 20px;
+}
+#current-price {
+    vertical-align: middle;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding-top: 3px;
+padding-bottom: 3px;
+margin-bottom: 20px;
+}
+#Intial {
+    margin-top: 15px;
+    font-size: 30px;
+}
+#stocks {
+margin-top: 15px;
+font-size: 30px;
+}
+#current {
+    margin-top: 15px;
+    font-size: 30px;
+}
+#submit-btn{
+    margin-top: 25px;
+    width: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border-color: rgb(201, 85, 8);
+    font-weight: bolder;
+}
+#mark {
+    font-size: 60px;
+}
+#output-box {
+    margin-top: 40px;
+    font-size: 20px;
+}
